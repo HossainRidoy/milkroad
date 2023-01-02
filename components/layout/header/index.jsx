@@ -9,7 +9,10 @@ const Header = () => {
         <div className="hidden lg:block">
           <div className="container mx-auto lg:max-w-[72rem] flex items-center justify-between">
             <div className="flex justify-start">
-              <a className="block text-[40px]" href="/">
+              <a
+                className="block text-[40px] text-milkroad_blue font-medium"
+                href="/"
+              >
                 Milkroad
               </a>
             </div>
