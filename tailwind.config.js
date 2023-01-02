@@ -12,15 +12,8 @@ module.exports = {
       xl: "1440px",
     },
     colors: {
-      LightYellow: "#F9F3F0",
-      LightSalmon: "#FDDAC9",
-      DarkSalmon: "#FEB48F",
-      blue: "#3577F0",
-      lightWhite: "#F6F7FB",
-      white: "#fff",
-      red: " #FF0000",
-      bColor: " rgb(210, 210, 210)",
-      success: "#36C81F",
+      milkroad_blue: "#1B8CBD",
+      white: "#ffffff",
     },
     fontFamily: {
       sans: ["Graphik", "sans-serif"],
